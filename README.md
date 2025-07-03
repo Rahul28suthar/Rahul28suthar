@@ -1,5 +1,12 @@
-# 💫 About Me:
-I'm currently learning How to become a data scientist<br>Ask me about React, javascript, Redux, Framer Motion<br>How to reach me rahulsssuthar@gmail.com
+# 👋 Hi, I'm Rahul Suthar!
+
+🚀 Aspiring Data Scientist | Passionate Frontend Developer  
+🎯 Focused on mastering **React**, **JavaScript**, **Framer Motion**, and **Data Science**
+
+- 📚 Currently learning: Python for Data Science, Pandas, Machine Learning
+- 💡 Ask me about: React, Redux, Framer Motion, or JavaScript
+- 📫 Reach me at: rahulsssuthar@gmail.com
+
 
 
 # 💻 Tech Stack:
