@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Rahul Suthar!
 
-![](https://komarev.com/ghpvc/?username=your-username&color=blue)
-
+![](https://komarev.com/ghpvc/?username=Rahul28suthar&color=blue)
 
 🚀 Aspiring Data Scientist | Passionate Frontend Developer  
 🎯 Focused on mastering **React**, **JavaScript**, **Framer Motion**, and **Data Science**
