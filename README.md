@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Rahul Suthar!
 
+![Profile views](https://profile-counter.glitch.me/your-username/count.svg)
+
+
 🚀 Aspiring Data Scientist | Passionate Frontend Developer  
 🎯 Focused on mastering **React**, **JavaScript**, **Framer Motion**, and **Data Science**
 
