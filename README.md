@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Rahul28suthar&color=blue)
 
 🚀 Aspiring Data Scientist | Passionate Frontend Developer  
-🎯 Focused on mastering **React**, **JavaScript**, **Framer Motion**, and **Data Science**
+🙋‍♂️Ask me about **React**, **JavaScript**, **Framer Motion**, and **Data Science**
 
 - 📚 Currently learning: Python for Data Science, Pandas, Machine Learning
 - 💡 Ask me about: React, Redux, Framer Motion, or JavaScript
