@@ -19,7 +19,7 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Rahul28suthar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul28suthar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul28suthar&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Rahul28suthar's GitHub Stats" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
